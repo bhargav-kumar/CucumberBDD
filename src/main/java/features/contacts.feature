@@ -15,5 +15,5 @@ Then close the browser
 Examples:
 
 	| username | password | firstname | lastname | position |
-	| naveenk  | test@123 | Tom       | Peter    | Manager  |
-	| naveenk  | test@123 | David     | Dsouza   | Director  |
+	| world  | test@1234 | Tom       | Peter    | Manager  |
+	| world  | test@1234 | David     | Dsouza   | Director  |
