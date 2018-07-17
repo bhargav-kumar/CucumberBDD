@@ -5,7 +5,7 @@ Scenario: Free CRM Create a new deal scenario
 Given user is already on Login Page
 When title of login page is Free CRM 
 Then user enters username and password
-| naveenk | test@123 |
+| world | test@1234 |
 Then user clicks on login button 
 Then user is on home page
 Then user moves to new deal page
