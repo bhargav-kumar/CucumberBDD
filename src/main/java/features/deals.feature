@@ -12,3 +12,10 @@ Then user moves to new deal page
 Then user enters deal details
 | test deal | 1000 | 50 | 10 |
 Then close the browser 
+
+
+
+
+
+
+/////////////////////////////////
